@@ -9,7 +9,7 @@ Then write 'foo = getsynonym(a)' where a is the word you want to search, and foo
 If the word does not exist then foo will = False
 
 
-It's an extration out of WordNet. Refer to WordNet License for usage. As of today:
+It's an extration out of [WordNet](https://wordnet.princeton.edu/). Refer to [WordNet License](https://wordnet.princeton.edu/license-and-commercial-use) for usage. As of today:
 ```
 License and Commercial Use of WordNet
 
