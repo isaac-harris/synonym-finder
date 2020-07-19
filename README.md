@@ -8,8 +8,9 @@ Then write 'foo = getsynonym(a)' where a is the word you want to search, and foo
 
 foo will be false if the word doesn't exist or if the word has no synonyms.
 
+# Licenses & Commercial Use
 
-It's an extration out of [WordNet](https://wordnet.princeton.edu/). Refer to [WordNet License](https://wordnet.princeton.edu/license-and-commercial-use) for usage. As of today:
+This project indirectly used extrations from [WordNet](https://wordnet.princeton.edu/). Refer to [WordNet License](https://wordnet.princeton.edu/license-and-commercial-use) for usage. As of today:
 ```
 License and Commercial Use of WordNet
 
