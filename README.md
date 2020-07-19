@@ -4,9 +4,9 @@ Put the .json and .py file in the same folder as your main python program
 
 To use the function write 'from getsynonym import getsynonym' at the top of that program
 
-Then write 'var = getsynonym(a)' where a is the word you want to search, and var is where the synonyms should be stored
+Then write 'foo = getsynonym(a)' where a is the word you want to search, and foo is where the synonyms should be stored
 
-If the word does not exist then var will = False
+If the word does not exist then foo will = False
 
 
 It's an extration out of WordNet. Refer to WordNet License for usage. As of today:
