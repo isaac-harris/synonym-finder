@@ -1,12 +1,12 @@
 # synonym-finder
 
-Put the .json and .py file in the same folder as your main python program
+Put the .json and .py file in the same folder as your main python program.
 
-To use the function write 'from getsynonym import getsynonym' at the top of that program
+To use the function write 'from getsynonym import getsynonym' at the top of that program.
 
-Then write 'foo = getsynonym(a)' where a is the word you want to search, and foo is where the synonyms should be stored
+Then write 'foo = getsynonym(a)' where a is the word you want to search, and foo is where the synonyms should be stored.
 
-If the word does not exist then foo will = False
+foo will be false if the word doesn't exist or if the word has no synonyms.
 
 
 It's an extration out of [WordNet](https://wordnet.princeton.edu/). Refer to [WordNet License](https://wordnet.princeton.edu/license-and-commercial-use) for usage. As of today:
